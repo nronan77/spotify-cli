@@ -1,0 +1,19 @@
+{
+  "name": "spotify-cli",
+  "version": "1.0.0",
+  "dependencies": {
+    "config": "^3.3.3",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  },
+  "description": "Spotify Command Line Interface for making and managing playlists",
+  "main": "src/authorization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Ronan",
+  "license": "ISC"
+}
